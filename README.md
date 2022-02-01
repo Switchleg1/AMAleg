@@ -7,6 +7,13 @@ DIY Macchina A0 Clone built from parts attainable from amazon. <br><br>
   <img src="https://github.com/Switchleg1/AMAleg/blob/main/screenshot3.jpg?raw=true" width="200" title="hover text">
 </p><br>
 
+Case Models: <br>
+Top <br>
+https://github.com/Switchleg1/AMAleg/blob/main/top.stl<br><br>
+
+Bottom (x2) <br>
+https://github.com/Switchleg1/AMAleg/blob/main/bottom_half.stl<br><br>
+
 Parts list (quantity 1 of each): <br>
 Any ESP32 dev board <br>
 https://www.amazon.ca/KeeYees-Development-Bluetooth-Microcontroller-ESP-WROOM-32/dp/B07PP1R8YK/ref=sr_1_20?crid=22P4LA1F8VBNC&keywords=esp32&qid=1643595911&sprefix=esp32%2Caps%2C105&sr=8-20 <br><br>
