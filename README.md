@@ -9,10 +9,10 @@ DIY Macchina A0 Clone built from parts attainable from amazon. <br><br>
 
 Case Models: <br>
 Top <br>
-https://github.com/Switchleg1/AMAleg/blob/main/top.stl<br><br>
+https://github.com/Switchleg1/AMAleg/blob/main/top.STL<br><br>
 
 Bottom (x2) <br>
-https://github.com/Switchleg1/AMAleg/blob/main/bottom_half.stl<br><br>
+https://github.com/Switchleg1/AMAleg/blob/main/bottom_half.STL<br><br>
 
 Parts list (quantity 1 of each): <br>
 Any ESP32 dev board <br>
