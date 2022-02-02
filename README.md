@@ -24,4 +24,9 @@ https://www.amazon.ca/eBoot-MP1584EN-Converter-Adjustable-Module/dp/B01MQGMOKI/r
 OBD2 connector (can also be taken from an elm adapter) <br>
 https://www.sparkfun.com/products/9911 <br><br>
 Schottky or fast recovery diode (1Amp 20v) 1N5819, SR100, UF4004, etc <br>
-https://www.amazon.ca/1N5819-Schottky-Barrier-Rectifier-DO-204AL/dp/B07RL3SCL4/ref=mp_s_a_1_5?crid=AX2MPSXQXPUM&keywords=1+amp+schottky+diode&qid=1643646733&sprefix=1amp+schottky+diode%2Caps%2C267&sr=8-5
+https://www.amazon.ca/1N5819-Schottky-Barrier-Rectifier-DO-204AL/dp/B07RL3SCL4/ref=mp_s_a_1_5?crid=AX2MPSXQXPUM&keywords=1+amp+schottky+diode&qid=1643646733&sprefix=1amp+schottky+diode%2Caps%2C267&sr=8-5<br><br>
+
+Wire diagram:<br>
+<p align="center">
+  <img src="https://github.com/Switchleg1/AMAleg/blob/main/diagram.jpg?raw=true" width="2000" title="hover text">
+</p><br>
