@@ -36,3 +36,5 @@ Wire diagram:<br>
 <p align="center">
   <img src="https://github.com/Switchleg1/AMAleg/blob/main/diagram.jpg?raw=true" width="2000" title="hover text">
 </p><br>
+
+After assembling remember to set the voltage regulator anywhere from 5-5.5v (turn knob clockwise by 1/10th of a turn) and flash the latest firmware https://github.com/Switchleg1/esp32-isotp-ble-bridge
