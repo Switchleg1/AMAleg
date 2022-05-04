@@ -9,11 +9,17 @@ DIY Macchina A0 Clone built from parts attainable from amazon. <br><br>
 </p><br>
 
 Case Models: <br>
-For OBD connectors with 1.5mm flanges<br>
+For OBD connectors with 1.5mm flanges and the smaller KeeYee esp32 boards<br>
 Top (you may need to oversize 1% depending on material and printer calibration) <br>
 https://github.com/Switchleg1/AMAleg/blob/main/SL1.3.5-top.STL<br>
 Bottom (x2) <br>
 https://github.com/Switchleg1/AMAleg/blob/main/SL1.3.5-bottom_half.STL<br><br>
+
+For OBD connectors with 1.5mm flanges and the larger esp32 boards with mounting holes<br>
+Top (you may need to oversize 1% depending on material and printer calibration) <br>
+https://github.com/Switchleg1/AMAleg/blob/main/SL1.5-top.STL<br>
+Bottom (x2) <br>
+https://github.com/Switchleg1/AMAleg/blob/main/SL1.5-bottom_half.STL<br><br>
 
 For OBD connectors with 2mm flanges (not common)<br>
 Top <br>
